@@ -1,0 +1,5 @@
+El programa sirve para calcular cuanto debe de pagar el cliente, se incluyen las librerias para usar las variables requeridas,
+se declaran las variables como string para el nombre, double para los precios y int para la cantidad,
+usamos tambien getline() para que se lea el nombre completo del cliente y para depir precio y cantidad usamos cin,
+El programa calcula el subtotal multiplicando precio por cantidad, después calcula el IVA del 12%  
+y al final suma todo para obtener el total a pagar, con dos decimales. 
